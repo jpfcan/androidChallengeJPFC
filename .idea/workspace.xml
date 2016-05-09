@@ -11,6 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="deedc362-86c3-4d09-8b83-1102b0563657" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/juanpablo/androidchallengedemandfrontier/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/juanpablo/androidchallengedemandfrontier/MainActivity.java" />
     </list>
     <ignored path="androidchallenge.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -61,16 +62,16 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/juanpablo/androidchallengedemandfrontier/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3761062">
-              <caret line="78" column="24" selection-start-line="78" selection-start-column="24" selection-end-line="78" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.42035398">
+              <caret line="60" column="76" selection-start-line="60" selection-start-column="76" selection-end-line="60" selection-end-column="76" />
               <folding>
-                <element signature="e#2913#2941#0" expanded="true" />
-                <element signature="e#3129#3164#0" expanded="true" />
-                <element signature="e#3375#3396#0" expanded="true" />
-                <element signature="e#3673#3693#0" expanded="true" />
-                <element signature="e#4412#4439#0" expanded="true" />
-                <element signature="e#4470#4497#0" expanded="true" />
-                <element signature="e#4816#4843#0" expanded="true" />
+                <element signature="e#2915#2943#0" expanded="true" />
+                <element signature="e#3131#3166#0" expanded="true" />
+                <element signature="e#3377#3398#0" expanded="true" />
+                <element signature="e#3675#3695#0" expanded="true" />
+                <element signature="e#4414#4441#0" expanded="true" />
+                <element signature="e#4472#4499#0" expanded="true" />
+                <element signature="e#4818#4845#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -2300,7 +2301,13 @@
       <option name="project" value="LOCAL" />
       <updated>1462819322663</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Final1 Solution to Android Challenge - by: Juan Pablo Fajardo Cano">
+      <created>1462819335639</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1462819335639</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2425,16 +2432,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/juanpablo/androidchallengedemandfrontier/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3761062">
-          <caret line="78" column="24" selection-start-line="78" selection-start-column="24" selection-end-line="78" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.42035398">
+          <caret line="60" column="76" selection-start-line="60" selection-start-column="76" selection-end-line="60" selection-end-column="76" />
           <folding>
-            <element signature="e#2913#2941#0" expanded="true" />
-            <element signature="e#3129#3164#0" expanded="true" />
-            <element signature="e#3375#3396#0" expanded="true" />
-            <element signature="e#3673#3693#0" expanded="true" />
-            <element signature="e#4412#4439#0" expanded="true" />
-            <element signature="e#4470#4497#0" expanded="true" />
-            <element signature="e#4816#4843#0" expanded="true" />
+            <element signature="e#2915#2943#0" expanded="true" />
+            <element signature="e#3131#3166#0" expanded="true" />
+            <element signature="e#3377#3398#0" expanded="true" />
+            <element signature="e#3675#3695#0" expanded="true" />
+            <element signature="e#4414#4441#0" expanded="true" />
+            <element signature="e#4472#4499#0" expanded="true" />
+            <element signature="e#4818#4845#0" expanded="true" />
           </folding>
         </state>
       </provider>

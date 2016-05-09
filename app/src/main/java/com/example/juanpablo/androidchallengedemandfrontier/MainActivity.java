@@ -52,11 +52,13 @@ public class MainActivity extends AppCompatActivity implements LocationListener{
             buildAlertMessageNoGps();
         }
         else {
-            MainActivityPermissionsDispatcher.getCoordinatesWithCheck(this);
+
             fragment= FragmentDays.getInstance(this);
 
             if (fragment == null)
                 return;
+
+            MainActivityPermissionsDispatcher.getCoordinatesWithCheck(this);
         }
 
     }
