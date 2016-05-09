@@ -9,7 +9,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="deedc362-86c3-4d09-8b83-1102b0563657" name="Default" comment="Final Solution to Android Challenge - by: Juan Pablo Fajardo Cano">
+    <list default="true" id="deedc362-86c3-4d09-8b83-1102b0563657" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="androidchallenge.iws" />
@@ -2282,7 +2282,13 @@
       <option name="project" value="LOCAL" />
       <updated>1462818911311</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Final1 Solution to Android Challenge - by: Juan Pablo Fajardo Cano">
+      <created>1462819082657</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1462819082657</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2335,7 +2341,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Solution to Android Challenge - by: Juan Pablo Fajardo Cano" />
     <MESSAGE value="Final Solution to Android Challenge - by: Juan Pablo Fajardo Cano" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final Solution to Android Challenge - by: Juan Pablo Fajardo Cano" />
+    <MESSAGE value="Final1 Solution to Android Challenge - by: Juan Pablo Fajardo Cano" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final1 Solution to Android Challenge - by: Juan Pablo Fajardo Cano" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
