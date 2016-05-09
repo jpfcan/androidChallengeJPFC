@@ -2,27 +2,6 @@
 <items version="2" >
 
     <item
-        jar="/Users/lux/Documents/androidchallenge/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
-        <dex dex="/Users/lux/Documents/androidchallenge/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_7244b1ea8993f091b23a879a6d49210774bb410b.jar" />
-    </item>
-    <item
-        jar="/Users/lux/Documents/androidchallenge/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="87ea84f43e10f15091f010daecf64a4b3e0c1284">
-        <dex dex="/Users/lux/Documents/androidchallenge/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_1314275eb9476dca59dc77633f503f5a1b386096.jar" />
-    </item>
-    <item
-        jar="/Users/lux/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
-        <dex dex="/Users/lux/Documents/androidchallenge/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_5103da162ee00251d2c5b1b1f97eb0fab0921998.jar" />
-    </item>
-    <item
         jar="/Users/lux/Documents/androidchallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
         jumboMode="true"
         revision="22.0.1"
@@ -40,8 +19,15 @@
         jar="/Users/lux/Documents/androidchallenge/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="8c003527848f18b690e784b0eb5e4f5202ccf2d0">
+        sha1="3379d61f8c5a914d8521f44940ce78707dece5ed">
         <dex dex="/Users/lux/Documents/androidchallenge/app/build/intermediates/pre-dexed/debug/instant-run_254087e887c9fe4ffc8ace681d86ca836d0f62b9.jar" />
+    </item>
+    <item
+        jar="/Users/lux/Documents/androidchallenge/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/lux/Documents/androidchallenge/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_7244b1ea8993f091b23a879a6d49210774bb410b.jar" />
     </item>
     <item
         jar="/Users/lux/Documents/androidchallenge/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
@@ -63,6 +49,20 @@
         revision="22.0.1"
         sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
         <dex dex="/Users/lux/Documents/androidchallenge/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_0d865cd7774ee4a1737e476ad9e63f739ac0d9ed.jar" />
+    </item>
+    <item
+        jar="/Users/lux/Documents/androidchallenge/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="3eb31d759eb5d27f0362798ac48864c83eff868c">
+        <dex dex="/Users/lux/Documents/androidchallenge/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_1314275eb9476dca59dc77633f503f5a1b386096.jar" />
+    </item>
+    <item
+        jar="/Users/lux/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/lux/Documents/androidchallenge/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_5103da162ee00251d2c5b1b1f97eb0fab0921998.jar" />
     </item>
 
 </items>

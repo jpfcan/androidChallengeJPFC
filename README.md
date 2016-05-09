@@ -43,9 +43,28 @@ Your time is valuable and we understand that.  Our goal is for you to spend abou
 Please answer the following in about a paragraph.
 
 1.  How long did you spend on completing this challenge?
+    
+    About 4~5 hours.
+
 2.  How far were you at 3 hours?
+    I was starting to code the main functions, after having read all documentation available for the requested app and having the Location and Forecast part done.
+
 3.  What needs to be finished/fixed for this to be use in a production app?
+    
+    The permissions in order to use the app in Android 23 haven't been tested, although I coded it so it would have no problem with that.
+
 4.  What did you think of this challenge?
+    
+    It was a very fun challenge, it made me look up and learn a lot of things I hadn't used before while developing.
+
 5.  What part was unclear?
+
+    The uploading the repo part, I had some trouble there.
+
 6.  What could we do to make this challenge better?
+
+    Accept answer as a .zip file.
+
 7.  What did we forget to test you on?
+
+    Related to the challenge I don't think anything was missing

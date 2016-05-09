@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener{
             buildAlertMessageNoGps();
         }
         else {
-            getCoordinates();
+            MainActivityPermissionsDispatcher.getCoordinatesWithCheck(this);
             fragment= FragmentDays.getInstance(this);
 
             if (fragment == null)
@@ -65,6 +65,13 @@ public class MainActivity extends AppCompatActivity implements LocationListener{
     void getCoordinates() {
         Criteria c = new Criteria();
         lm.requestSingleUpdate(c, this, null);
+    }
+
+    @Override
+    public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
+        super.onRequestPermissionsResult(requestCode, permissions, grantResults);
+        // NOTE: delegate the permission handling to generated method
+        MainActivityPermissionsDispatcher.onRequestPermissionsResult(this, requestCode, grantResults);
     }
 
     @OnShowRationale({Manifest.permission.ACCESS_FINE_LOCATION,Manifest.permission.ACCESS_COARSE_LOCATION})
